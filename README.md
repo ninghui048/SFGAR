@@ -10,8 +10,7 @@ This repo contains the implementation of the model proposed in "Source-Free Grap
 
 
 ## Dataset
-Put the datasets to the data.
-
+Put the datasets to the data folder.
 
 ## Run
 
