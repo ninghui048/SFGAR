@@ -2,7 +2,7 @@
 
 This repo contains the implementation of the model proposed in "Source-Free Graph Foundation Model Adaptation via Pseudo-Source Reconstruction".
 
-Run
+## Run
 
 To run the project as follows:
 ```
